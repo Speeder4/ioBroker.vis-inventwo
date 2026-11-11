@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "vis-inventwo",
-    "version": "4.1.1",
+    "version": "4.1.1+smarthome.1",
     "news": {
       "4.1.1": {
         "en": "correct z-index layering for popups — date/time picker dropdowns now appear in front of the popup overlay instead of behind it (#583)",
@@ -150,9 +150,7 @@
     "visWidgets": {
       "visInventwo": {
         "name": "vis-inventwo",
-        "ignoreInVersions": [
-          2
-        ],
+        "ignoreInVersions": [],
         "components": [
           "nocomponents"
         ],
