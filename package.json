@@ -1,6 +1,6 @@
 {
   "name": "iobroker.vis-inventwo",
-  "version": "4.1.1+smarthome.1",
+  "version": "4.1.1+smarthome.2",
   "description": "Widgets for ioBroker.vis",
   "author": "jkvarel <jkvarel@inventwo.com>",
   "contributors": [
